@@ -199,8 +199,8 @@ importers:
         specifier: ^4.2.1
         version: 4.2.1
       long:
-        specifier: ^5.2.3
-        version: 5.2.3
+        specifier: ^5.2.4
+        version: 5.2.4
       nice-grpc-web:
         specifier: ^3.3.5
         version: 3.3.5(ws@8.17.0)
@@ -2603,8 +2603,8 @@ packages:
   lodash@4.17.21:
     resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
 
-  long@5.2.3:
-    resolution: {integrity: sha512-lcHwpNoggQTObv5apGNCTdJrO69eHOZMi4BNC+rTLER8iHAqGrUVeLh/irVIM7zTw2bOXA8T6uNPeujwOLg/2Q==}
+  long@5.2.4:
+    resolution: {integrity: sha512-qtzLbJE8hq7VabR3mISmVGtoXP8KGc2Z/AT8OuqlYD7JTR3oqrgwdjnk07wpj1twXxYmgDXgoKVWUG/fReSzHg==}
 
   loose-envify@1.4.0:
     resolution: {integrity: sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==}
@@ -6183,7 +6183,7 @@ snapshots:
 
   lodash@4.17.21: {}
 
-  long@5.2.3: {}
+  long@5.2.4: {}
 
   loose-envify@1.4.0:
     dependencies:
@@ -6517,7 +6517,7 @@ snapshots:
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
       '@types/node': 22.10.3
-      long: 5.2.3
+      long: 5.2.4
 
   prr@1.0.1:
     optional: true
